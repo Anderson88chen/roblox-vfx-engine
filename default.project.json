@@ -1,0 +1,18 @@
+{
+  "name": "RobloxVFXEngine",
+  "tree": {
+    "$className": "DataModel",
+    "ReplicatedStorage": {
+      "$className": "ReplicatedStorage",
+      "VFXEngine": {
+        "$path": "src/ReplicatedStorage/VFXEngine"
+      }
+    },
+    "StarterPlayer": {
+      "$className": "StarterPlayer",
+      "StarterPlayerScripts": {
+        "$path": "src/StarterPlayer/StarterPlayerScripts"
+      }
+    }
+  }
+}
