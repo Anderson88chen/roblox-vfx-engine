@@ -6,6 +6,18 @@
       "$className": "ReplicatedStorage",
       "VFXEngine": {
         "$path": "src/ReplicatedStorage/VFXEngine"
+      },
+      "AtmosEngine": {
+        "$path": "src/ReplicatedStorage/AtmosEngine"
+      },
+      "JuiceEngine": {
+        "$path": "src/ReplicatedStorage/JuiceEngine"
+      },
+      "CinemaEngine": {
+        "$path": "src/ReplicatedStorage/CinemaEngine"
+      },
+      "WorldGenEngine": {
+        "$path": "src/ReplicatedStorage/WorldGenEngine"
       }
     },
     "StarterPlayer": {
